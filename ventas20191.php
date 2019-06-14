@@ -106,8 +106,8 @@
 
 <?php
 $servername = "sql301.epizy.com";
-$username = "epiz_24023342";
-$password = "n0qwY4JPQ07";
+$username = "epiz_24342";
+$password = "n0qwQ07";
 $dbname = "epiz_24023342_admin";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
