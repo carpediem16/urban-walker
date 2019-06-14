@@ -3,7 +3,7 @@
 // Make a MySQL Connection
 $servername = "fdxxx.biz.nf";
 $username = "195xxxx_cuenta";
-$password = "Carpxxx#4xx1";
+$password = "Carpxyxxx#4xx1";
 $dbname = "195xxx_cuenta";
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection
