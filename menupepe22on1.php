@@ -69,9 +69,9 @@
 
 <?php
 // Make a MySQL Connection
-$servername = "sql301.epizy.com";
-$username = "epiz_24023342";
-$password = "n0qwY4JPQ07";
+$servername = "sql30zy.com";
+$username = "epiz_242";
+$password = "n0qw7";
 $dbname = "epiz_24023342_admin";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
